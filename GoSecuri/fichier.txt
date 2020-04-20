@@ -1,0 +1,3 @@
+pom.xml ok 
+GoSecuri.iml ok 
+CameraTest.java ok 
